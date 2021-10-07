@@ -1,0 +1,57 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:01:00] 
+[23:01:00] Server Plugins
+[23:01:00] --------------
+[23:01:00]  Loading plugin: PySAMP.dll
+[23:01:00]   Loaded.
+[23:01:00]  Loaded 1 plugins.
+
+[23:01:00] 
+[23:01:00] Filterscripts
+[23:01:00] ---------------
+[23:01:00]   Loading filterscript 'gl_actions.amx'...
+[23:01:00]   Unable to load filterscript 'gl_actions.amx'.
+[23:01:00]   Loading filterscript 'gl_realtime.amx'...
+[23:01:00]   Unable to load filterscript 'gl_realtime.amx'.
+[23:01:00]   Loading filterscript 'gl_property.amx'...
+[23:01:00]   Unable to load filterscript 'gl_property.amx'.
+[23:01:00]   Loading filterscript 'gl_mapicon.amx'...
+[23:01:00]   Unable to load filterscript 'gl_mapicon.amx'.
+[23:01:00]   Loading filterscript 'ls_elevator.amx'...
+[23:01:00]   Unable to load filterscript 'ls_elevator.amx'.
+[23:01:00]   Loading filterscript 'attachments.amx'...
+[23:01:00]   Unable to load filterscript 'attachments.amx'.
+[23:01:00]   Loading filterscript 'skinchanger.amx'...
+[23:01:00]   Unable to load filterscript 'skinchanger.amx'.
+[23:01:00]   Loading filterscript 'vspawner.amx'...
+[23:01:00]   Unable to load filterscript 'vspawner.amx'.
+[23:01:00]   Loading filterscript 'ls_mall.amx'...
+[23:01:00]   Unable to load filterscript 'ls_mall.amx'.
+[23:01:00]   Loading filterscript 'ls_beachside.amx'...
+[23:01:00]   Unable to load filterscript 'ls_beachside.amx'.
+[23:01:00]   Loaded 0 filterscripts.
+
+[23:01:00] Total vehicles from files: 0
+[23:01:00] Loading PYSAMP
+[23:01:00] Loading PySAMP gamemode
+[23:01:00] PyGamemode::PyGamemode(\python)
+[23:01:00] 
+---------------------------------------
+[23:01:00] Running Grand Larceny - by the SA-MP team
+
+[23:01:00] ---------------------------------------
+
+[23:01:00] Number of vehicle models: 0
+[23:01:00] Initializing Threading
+[23:01:00] Initialized Threading
+[23:03:26] [connection] 127.0.0.1:61959 requests connection cookie.
+[23:03:27] [connection] incoming connection: 127.0.0.1:61959 id: 0
+[23:03:27] [join] dnfive has joined the server (0:127.0.0.1)
