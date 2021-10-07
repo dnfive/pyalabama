@@ -55,3 +55,700 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [23:03:26] [connection] 127.0.0.1:61959 requests connection cookie.
 [23:03:27] [connection] incoming connection: 127.0.0.1:61959 id: 0
 [23:03:27] [join] dnfive has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:19:25] filterscripts = ""  (string)
+[23:19:25] 
+[23:19:25] Server Plugins
+[23:19:25] --------------
+[23:19:25]  Loading plugin: PySAMP.dll
+[23:19:25]   Loaded.
+[23:19:25]  Loaded 1 plugins.
+
+[23:19:25] 
+[23:19:25] Filterscripts
+[23:19:25] ---------------
+[23:19:25]   Loaded 0 filterscripts.
+
+[23:19:25] Total vehicles from files: 0
+[23:19:25] Loading PYSAMP
+[23:19:25] Loading PySAMP gamemode
+[23:19:25] PyGamemode::PyGamemode(\python)
+[23:19:25] PyGamemode::PyGamemode(gamemode.py) failed!
+[23:19:25] 
+---------------------------------------
+[23:19:25] Running Grand Larceny - by the SA-MP team
+
+[23:19:25] ---------------------------------------
+
+[23:19:25] Number of vehicle models: 0
+[23:19:25] Initializing Threading
+[23:19:25] Initialized Threading
+[23:19:28] [connection] 127.0.0.1:62330 requests connection cookie.
+[23:19:29] [connection] incoming connection: 127.0.0.1:62330 id: 0
+[23:19:29] [join] dnfive has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:20:22] filterscripts = ""  (string)
+[23:20:22] 
+[23:20:22] Server Plugins
+[23:20:22] --------------
+[23:20:22]  Loading plugin: PySAMP.dll
+[23:20:22]   Loaded.
+[23:20:22]  Loaded 1 plugins.
+
+[23:20:22] 
+[23:20:22] Filterscripts
+[23:20:22] ---------------
+[23:20:22]   Loaded 0 filterscripts.
+
+[23:20:22] Total vehicles from files: 0
+[23:20:22] Loading PYSAMP
+[23:20:22] Loading PySAMP gamemode
+[23:20:22] PyGamemode::PyGamemode(\python)
+[23:20:22] PyGamemode::PyGamemode(gamemode.py) failed!
+[23:20:22] 
+---------------------------------------
+[23:20:22] Initializing Threading
+[23:20:22] Initialized Threading
+[23:20:22] Running Grand Larceny - by the SA-MP team
+
+[23:20:22] ---------------------------------------
+
+[23:20:22] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:23:21] filterscripts = ""  (string)
+[23:23:21] 
+[23:23:21] Server Plugins
+[23:23:21] --------------
+[23:23:21]  Loading plugin: PySAMP.dll
+[23:23:21]   Loaded.
+[23:23:21]  Loaded 1 plugins.
+
+[23:23:21] 
+[23:23:21] Filterscripts
+[23:23:21] ---------------
+[23:23:21]   Loaded 0 filterscripts.
+
+[23:23:21] Total vehicles from files: 0
+[23:23:21] Loading PYSAMP
+[23:23:21] Loading PySAMP gamemode
+[23:23:21] PyGamemode::PyGamemode(\python)
+[23:23:21] PyGamemode::PyGamemode(gamemode.py) failed!
+[23:23:21] 
+---------------------------------------
+[23:23:21] Running Grand Larceny - by the SA-MP team
+
+[23:23:21] Initializing Threading
+[23:23:21] ---------------------------------------
+
+[23:23:21] Initialized Threading
+[23:23:21] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:24:11] filterscripts = ""  (string)
+[23:24:11] 
+[23:24:11] Server Plugins
+[23:24:11] --------------
+[23:24:11]  Loading plugin: PySAMP.dll
+[23:24:11]   Loaded.
+[23:24:11]  Loaded 1 plugins.
+
+[23:24:12] 
+[23:24:12] Filterscripts
+[23:24:12] ---------------
+[23:24:12]   Loaded 0 filterscripts.
+
+[23:24:12] Total vehicles from files: 0
+[23:24:12] Loading PYSAMP
+[23:24:12] Loading PySAMP gamemode
+[23:24:12] PyGamemode::PyGamemode(\python)
+[23:24:12] PyGamemode::PyGamemode(gamemode.py) failed!
+[23:24:12] 
+---------------------------------------
+[23:24:12] Running Grand Larceny - by the SA-MP team
+
+[23:24:12] ---------------------------------------
+
+[23:24:12] Initializing Threading
+[23:24:12] Number of vehicle models: 0
+[23:24:12] Initialized Threading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:24:52] filterscripts = ""  (string)
+[23:24:52] 
+[23:24:52] Server Plugins
+[23:24:52] --------------
+[23:24:52]  Loading plugin: PySAMP.dll
+[23:24:52]   Loaded.
+[23:24:52]  Loaded 1 plugins.
+
+[23:24:52] 
+[23:24:52] Filterscripts
+[23:24:52] ---------------
+[23:24:52]   Loaded 0 filterscripts.
+
+[23:24:52] Total vehicles from files: 0
+[23:24:52] Loading PYSAMP
+[23:24:52] Loading PySAMP gamemode
+[23:24:52] PyGamemode::PyGamemode(\python)
+[23:24:52] 
+---------------------------------------
+[23:24:52] Running Grand Larceny - by the SA-MP team
+
+[23:24:52] ---------------------------------------
+
+[23:24:52] Number of vehicle models: 0
+[23:24:52] Initializing Threading
+[23:24:52] Initialized Threading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:32:05] filterscripts = ""  (string)
+[23:32:05] 
+[23:32:05] Server Plugins
+[23:32:05] --------------
+[23:32:05]  Loading plugin: PySAMP.dll
+[23:32:05]   Loaded.
+[23:32:05]  Loaded 1 plugins.
+
+[23:32:05] 
+[23:32:05] Filterscripts
+[23:32:05] ---------------
+[23:32:05]   Loaded 0 filterscripts.
+
+[23:32:05] Total vehicles from files: 0
+[23:32:05] Loading PYSAMP
+[23:32:05] Loading PySAMP gamemode
+[23:32:05] PyGamemode::PyGamemode(\python)
+[23:32:05] PyGamemode::PyGamemode(gamemode.py) failed!
+[23:32:05] 
+---------------------------------------
+[23:32:05] Running Grand Larceny - by the SA-MP team
+
+[23:32:05] ---------------------------------------
+
+[23:32:05] Initializing Threading
+[23:32:05] Initialized Threading
+[23:32:05] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:33:23] filterscripts = ""  (string)
+[23:33:23] 
+[23:33:23] Server Plugins
+[23:33:23] --------------
+[23:33:23]  Loading plugin: PySAMP.dll
+[23:33:23]   Loaded.
+[23:33:23]  Loaded 1 plugins.
+
+[23:33:23] 
+[23:33:23] Filterscripts
+[23:33:23] ---------------
+[23:33:23]   Loaded 0 filterscripts.
+
+[23:33:23] Total vehicles from files: 0
+[23:33:23] Loading PYSAMP
+[23:33:23] Loading PySAMP gamemode
+[23:33:23] PyGamemode::PyGamemode(\python)
+[23:33:23] PyGamemode::PyGamemode(gamemode.py) failed!
+[23:33:23] 
+---------------------------------------
+[23:33:23] Running Grand Larceny - by the SA-MP team
+
+[23:33:23] Initializing Threading
+[23:33:23] ---------------------------------------
+
+[23:33:23] Initialized Threading
+[23:33:23] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:34:19] filterscripts = ""  (string)
+[23:34:19] 
+[23:34:19] Server Plugins
+[23:34:19] --------------
+[23:34:19]  Loading plugin: PySAMP.dll
+[23:34:19]   Loaded.
+[23:34:19]  Loaded 1 plugins.
+
+[23:34:20] 
+[23:34:20] Filterscripts
+[23:34:20] ---------------
+[23:34:20]   Loaded 0 filterscripts.
+
+[23:34:20] Total vehicles from files: 0
+[23:34:20] Loading PYSAMP
+[23:34:20] Loading PySAMP gamemode
+[23:34:20] PyGamemode::PyGamemode(\python)
+[23:34:20] PyGamemode::PyGamemode(gamemode.py) failed!
+[23:34:20] 
+---------------------------------------
+[23:34:20] Running Grand Larceny - by the SA-MP team
+
+[23:34:20] ---------------------------------------
+
+[23:34:20] Initializing Threading
+[23:34:20] Number of vehicle models: 0
+[23:34:20] Initialized Threading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:34:52] filterscripts = ""  (string)
+[23:34:52] 
+[23:34:52] Server Plugins
+[23:34:52] --------------
+[23:34:52]  Loading plugin: PySAMP.dll
+[23:34:52]   Loaded.
+[23:34:52]  Loaded 1 plugins.
+
+[23:34:52] 
+[23:34:52] Filterscripts
+[23:34:52] ---------------
+[23:34:52]   Loaded 0 filterscripts.
+
+[23:34:52] Total vehicles from files: 0
+[23:34:52] Loading PYSAMP
+[23:34:52] Loading PySAMP gamemode
+[23:34:52] PyGamemode::PyGamemode(\python)
+[23:34:52] PyGamemode::PyGamemode(gamemode.py) failed!
+[23:34:52] 
+---------------------------------------
+[23:34:52] Running Grand Larceny - by the SA-MP team
+
+[23:34:52] Initializing Threading
+[23:34:52] ---------------------------------------
+
+[23:34:52] Initialized Threading
+[23:34:52] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:35:35] filterscripts = ""  (string)
+[23:35:35] 
+[23:35:35] Server Plugins
+[23:35:35] --------------
+[23:35:35]  Loading plugin: PySAMP.dll
+[23:35:35]   Loaded.
+[23:35:35]  Loaded 1 plugins.
+
+[23:35:35] 
+[23:35:35] Filterscripts
+[23:35:35] ---------------
+[23:35:35]   Loaded 0 filterscripts.
+
+[23:35:35] Total vehicles from files: 0
+[23:35:35] Loading PYSAMP
+[23:35:35] Loading PySAMP gamemode
+[23:35:35] PyGamemode::PyGamemode(\python)
+[23:35:35] PyGamemode::PyGamemode(gamemode.py) failed!
+[23:35:35] 
+---------------------------------------
+[23:35:35] Running Grand Larceny - by the SA-MP team
+
+[23:35:35] ---------------------------------------
+
+[23:35:35] Initializing Threading
+[23:35:35] Initialized Threading
+[23:35:35] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:36:05] filterscripts = ""  (string)
+[23:36:05] 
+[23:36:05] Server Plugins
+[23:36:05] --------------
+[23:36:05]  Loading plugin: PySAMP.dll
+[23:36:05]   Loaded.
+[23:36:05]  Loaded 1 plugins.
+
+[23:36:05] 
+[23:36:05] Filterscripts
+[23:36:05] ---------------
+[23:36:05]   Loaded 0 filterscripts.
+
+[23:36:05] Total vehicles from files: 0
+[23:36:05] Loading PYSAMP
+[23:36:05] Loading PySAMP gamemode
+[23:36:05] PyGamemode::PyGamemode(\python)
+[23:36:05] PyGamemode::PyGamemode(gamemode.py) failed!
+[23:36:05] 
+---------------------------------------
+[23:36:05] Running Grand Larceny - by the SA-MP team
+
+[23:36:05] ---------------------------------------
+
+[23:36:05] Number of vehicle models: 0
+[23:36:05] Initializing Threading
+[23:36:05] Initialized Threading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:36:52] filterscripts = ""  (string)
+[23:36:52] 
+[23:36:52] Server Plugins
+[23:36:52] --------------
+[23:36:52]  Loading plugin: PySAMP.dll
+[23:36:52]   Loaded.
+[23:36:52]  Loaded 1 plugins.
+
+[23:36:52] 
+[23:36:52] Filterscripts
+[23:36:52] ---------------
+[23:36:52]   Loaded 0 filterscripts.
+
+[23:36:52] Total vehicles from files: 0
+[23:36:52] Loading PYSAMP
+[23:36:52] Loading PySAMP gamemode
+[23:36:52] PyGamemode::PyGamemode(\python)
+[23:36:52] PyGamemode::PyGamemode(gamemode.py) failed!
+[23:36:52] 
+---------------------------------------
+[23:36:52] Running Grand Larceny - by the SA-MP team
+
+[23:36:52] ---------------------------------------
+
+[23:36:52] Initializing Threading
+[23:36:52] Number of vehicle models: 0
+[23:36:52] Initialized Threading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:38:50] filterscripts = ""  (string)
+[23:38:50] 
+[23:38:50] Server Plugins
+[23:38:50] --------------
+[23:38:50]  Loading plugin: PySAMP.dll
+[23:38:50]   Loaded.
+[23:38:50]  Loaded 1 plugins.
+
+[23:38:50] 
+[23:38:50] Filterscripts
+[23:38:50] ---------------
+[23:38:50]   Loaded 0 filterscripts.
+
+[23:38:50] Total vehicles from files: 0
+[23:38:50] Loading PYSAMP
+[23:38:50] Loading PySAMP gamemode
+[23:38:50] PyGamemode::PyGamemode(\python)
+[23:38:50] 
+---------------------------------------
+[23:38:50] Running Grand Larceny - by the SA-MP team
+
+[23:38:50] Initializing Threading
+[23:38:50] ---------------------------------------
+
+[23:38:50] Number of vehicle models: 0
+[23:38:50] Initialized Threading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:39:21] filterscripts = ""  (string)
+[23:39:21] 
+[23:39:21] Server Plugins
+[23:39:21] --------------
+[23:39:21]  Loading plugin: PySAMP.dll
+[23:39:21]   Loaded.
+[23:39:21]  Loaded 1 plugins.
+
+[23:39:21] 
+[23:39:21] Filterscripts
+[23:39:21] ---------------
+[23:39:21]   Loaded 0 filterscripts.
+
+[23:39:21] Total vehicles from files: 0
+[23:39:21] Loading PYSAMP
+[23:39:21] Loading PySAMP gamemode
+[23:39:21] PyGamemode::PyGamemode(\python)
+[23:39:21] 
+---------------------------------------
+[23:39:21] Running Grand Larceny - by the SA-MP team
+
+[23:39:21] Initializing Threading
+[23:39:21] ---------------------------------------
+
+[23:39:21] Number of vehicle models: 0
+[23:39:21] Initialized Threading
+[23:39:24] [connection] 127.0.0.1:57752 requests connection cookie.
+[23:39:25] [connection] incoming connection: 127.0.0.1:57752 id: 0
+[23:39:25] [join] dnfive has joined the server (0:127.0.0.1)
+[23:39:36] [part] dnfive has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:45:58] filterscripts = ""  (string)
+[23:45:58] 
+[23:45:58] Server Plugins
+[23:45:58] --------------
+[23:45:58]  Loading plugin: PySAMP.dll
+[23:45:58]   Loaded.
+[23:45:58]  Loaded 1 plugins.
+
+[23:45:59] 
+[23:45:59] Filterscripts
+[23:45:59] ---------------
+[23:45:59]   Loaded 0 filterscripts.
+
+[23:45:59] Total vehicles from files: 0
+[23:45:59] Loading PYSAMP
+[23:45:59] Loading PySAMP gamemode
+[23:45:59] PyGamemode::PyGamemode(\python)
+[23:45:59] 
+---------------------------------------
+[23:45:59] Running Grand Larceny - by the SA-MP team
+
+[23:45:59] Initializing Threading
+[23:45:59] ---------------------------------------
+
+[23:45:59] Number of vehicle models: 0
+[23:45:59] Initialized Threading
+[23:46:29] [connection] 127.0.0.1:53657 requests connection cookie.
+[23:46:30] [connection] incoming connection: 127.0.0.1:53657 id: 0
+[23:46:30] [join] dnfive has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:50:30] filterscripts = ""  (string)
+[23:50:30] 
+[23:50:30] Server Plugins
+[23:50:30] --------------
+[23:50:30]  Loading plugin: PySAMP.dll
+[23:50:30]   Loaded.
+[23:50:30]  Loaded 1 plugins.
+
+[23:50:30] 
+[23:50:30] Filterscripts
+[23:50:30] ---------------
+[23:50:30]   Loaded 0 filterscripts.
+
+[23:50:30] Total vehicles from files: 0
+[23:50:30] Loading PYSAMP
+[23:50:30] Loading PySAMP gamemode
+[23:50:30] PyGamemode::PyGamemode(\python)
+[23:50:30] 
+---------------------------------------
+[23:50:30] Running Grand Larceny - by the SA-MP team
+
+[23:50:30] ---------------------------------------
+
+[23:50:30] Number of vehicle models: 0
+[23:50:30] Initializing Threading
+[23:50:30] Initialized Threading
+[23:50:49] [connection] 127.0.0.1:50399 requests connection cookie.
+[23:50:50] [connection] incoming connection: 127.0.0.1:50399 id: 0
+[23:50:50] [join] dnfive has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:51:20] filterscripts = ""  (string)
+[23:51:20] 
+[23:51:20] Server Plugins
+[23:51:20] --------------
+[23:51:20]  Loading plugin: PySAMP.dll
+[23:51:20]   Loaded.
+[23:51:20]  Loaded 1 plugins.
+
+[23:51:20] 
+[23:51:20] Filterscripts
+[23:51:20] ---------------
+[23:51:20]   Loaded 0 filterscripts.
+
+[23:51:20] Total vehicles from files: 0
+[23:51:20] Loading PYSAMP
+[23:51:20] Loading PySAMP gamemode
+[23:51:20] PyGamemode::PyGamemode(\python)
+[23:51:20] PyGamemode::PyGamemode(gamemode.py) failed!
+[23:51:20] 
+---------------------------------------
+[23:51:20] Running Grand Larceny - by the SA-MP team
+
+[23:51:20] ---------------------------------------
+
+[23:51:20] Number of vehicle models: 0
+[23:51:20] Initializing Threading
+[23:51:20] Initialized Threading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:51:41] filterscripts = ""  (string)
+[23:51:41] 
+[23:51:41] Server Plugins
+[23:51:41] --------------
+[23:51:41]  Loading plugin: PySAMP.dll
+[23:51:41]   Loaded.
+[23:51:41]  Loaded 1 plugins.
+
+[23:51:41] 
+[23:51:41] Filterscripts
+[23:51:41] ---------------
+[23:51:41]   Loaded 0 filterscripts.
+
+[23:51:41] Total vehicles from files: 0
+[23:51:41] Loading PYSAMP
+[23:51:41] Loading PySAMP gamemode
+[23:51:41] PyGamemode::PyGamemode(\python)
+[23:51:41] 
+---------------------------------------
+[23:51:41] Running Grand Larceny - by the SA-MP team
+
+[23:51:41] ---------------------------------------
+
+[23:51:41] Initializing Threading
+[23:51:41] Number of vehicle models: 0
+[23:51:41] Initialized Threading
+[23:51:43] [connection] 127.0.0.1:63413 requests connection cookie.
+[23:51:44] [connection] incoming connection: 127.0.0.1:63413 id: 0
+[23:51:45] [join] dnfive has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:56:12] filterscripts = ""  (string)
+[23:56:12] 
+[23:56:12] Server Plugins
+[23:56:12] --------------
+[23:56:12]  Loading plugin: PySAMP.dll
+[23:56:12]   Loaded.
+[23:56:12]  Loaded 1 plugins.
+
+[23:56:12] 
+[23:56:12] Filterscripts
+[23:56:12] ---------------
+[23:56:12]   Loaded 0 filterscripts.
+
+[23:56:12] Total vehicles from files: 0
+[23:56:12] Loading PYSAMP
+[23:56:12] Loading PySAMP gamemode
+[23:56:12] PyGamemode::PyGamemode(\python)
+[23:56:12] 
+---------------------------------------
+[23:56:12] Running Grand Larceny - by the SA-MP team
+
+[23:56:12] Initializing Threading
+[23:56:12] ---------------------------------------
+
+[23:56:12] Number of vehicle models: 0
+[23:56:12] Initialized Threading
+[23:56:18] [connection] 127.0.0.1:54601 requests connection cookie.
+[23:56:19] [connection] incoming connection: 127.0.0.1:54601 id: 0
+[23:56:19] [join] dnfive has joined the server (0:127.0.0.1)
+[23:56:39] [part] dnfive has left the server (0:1)

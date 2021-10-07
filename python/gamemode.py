@@ -1,11 +1,18 @@
 
-
 from samp import *
+MAXPLAYERS = 100
+COLOR_RED = 0xFF000000
 
 
-pInfo = {
-	
+pInfo = list()
+pInfolist = {
+	"Name": "Name",
+	"Admin": 0,
+	"Money": 0,
+	"Skin": 46
 }
+for n in range(MAXPLAYERS):
+	pInfo.append(pInfolist)
 
 def OnGameModeInit():
     SetGameModeText('PySAMP')
@@ -23,14 +30,23 @@ def OnPyReload():
     return True
 
 def OnPlayerConnect(playerid):
-    SendClientMessage(playerid, 0xFF000000, "Hello %s from Python" % GetPlayerName(playerid, 32))
-    return True
+	pInfo[playerid]["Name"] = GetPlayerName(playerid, 32)
+	pInfo[playerid]["Admin"] = 0
+	pInfo[playerid]["Money"] = 100
+	pInfo[playerid]["Skin"] = 46
+	SendClientMessage(playerid, COLOR_RED, "Hello %s from Python" % pInfo[playerid]["Name"])
+	ResetPlayerMoney(playerid)
+	GivePlayerMoney(playerid, pInfo[playerid]["Money"])
+	return True
     
 def OnPlayerDisconnect(playerid, reason):
     return True
     
-def OnPlayerSpawn(playerid):
-    return True
+def OnPlayerSpawn(playerid):	
+	SetPlayerSkin(playerid, pInfo[playerid]["Skin"])
+	SetPlayerPos(playerid, 1154.4586, -1770.9012, 16.5992)
+	SetPlayerFacingAngle(playerid, 0.0)
+	return True
     
 def OnPlayerDeath(playerid, killerid, reason):
     return True
