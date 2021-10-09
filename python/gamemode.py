@@ -1,5 +1,7 @@
 
 from samp import *
+from db import *
+
 MAXPLAYERS = 100
 COLOR_RED = 0xFF000000
 
@@ -37,6 +39,7 @@ def OnPlayerConnect(playerid):
 	SendClientMessage(playerid, COLOR_RED, "Hello %s from Python" % pInfo[playerid]["Name"])
 	ResetPlayerMoney(playerid)
 	GivePlayerMoney(playerid, pInfo[playerid]["Money"])
+	AddAccount(pInfo[playerid])
 	return True
     
 def OnPlayerDisconnect(playerid, reason):
