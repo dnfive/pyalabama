@@ -39,7 +39,12 @@ def OnPlayerConnect(playerid):
 	SendClientMessage(playerid, COLOR_RED, "Hello %s from Python" % pInfo[playerid]["Name"])
 	ResetPlayerMoney(playerid)
 	GivePlayerMoney(playerid, pInfo[playerid]["Money"])
-	AddAccount(pInfo[playerid])
+	player_account = IsPlayerHaveAccount(pInfo[playerid]['Name'])
+	if (player_account):
+		SetPlayerSpawn(playerid)
+	else:
+		AddAccount(pInfo[playerid])
+		SetPlayerSpawn(playerid)
 	return True
     
 def OnPlayerDisconnect(playerid, reason):
@@ -65,8 +70,13 @@ def OnPlayerText(playerid, text):
     return True
     
 def OnPlayerCommandText(playerid, cmdtext):
-    cmdtext = decode(cmdtext)
-    return False
+    #cmdtext = decode(cmdtext)
+	cmd = decode(cmdtext)
+	SendClientMessage(playerid, COLOR_RED, cmd)
+	if (cmd == "/test"):
+		UpdateAccount(pInfo[playerid])
+    
+	return False
     
 def OnPlayerRequestClass(playerid, classid):
     return True
@@ -219,3 +229,9 @@ def OnThreadingInit():
 """ your initialized threads must be shutdown during this callbac """
 def OnThreadingStopSignal():
     return None
+
+def SetPlayerSpawn(playerid):
+	SetPlayerSkin(playerid, pInfo[playerid]["Skin"])
+	SetPlayerPos(playerid, 1154.4586, -1770.9012, 16.5992)
+	SetPlayerFacingAngle(playerid, 0.0)
+	return True
